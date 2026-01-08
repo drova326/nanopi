@@ -14,4 +14,8 @@ sh <(wget -O - https://raw.githubusercontent.com/EikeiDev/OpenWRT-sing-box-exten
 
 [Репозиторий с Zapret](https://github.com/bol-van/zapret/releases)
 
-[Репозиторий с приложением luci для Zapret](https://github.com/remittor/zapret-openwrt/releases)
+[Репозиторий с менеджором для Zapret](https://github.com/StressOzz/Zapret-Manager)
+
+[Репозиторий с приложением OpenWRT для Zapret](https://github.com/remittor/zapret-openwrt/releases)
+
+
