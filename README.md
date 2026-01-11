@@ -18,4 +18,6 @@ sh <(wget -O - https://raw.githubusercontent.com/EikeiDev/OpenWRT-sing-box-exten
 
 [Репозиторий с приложением OpenWRT для Zapret](https://github.com/remittor/zapret-openwrt/releases)
 
+[Репозиторий с curl с поддержкой QUIC](https://github.com/vayulqq/openwrt-curl-prebuilt)
+
 
